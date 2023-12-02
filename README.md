@@ -1,6 +1,6 @@
 # Game 2048
 
-- [DEMO LINK](https://nasytheslayer.github.io/Museum-landing/)
+- [DEMO LINK](nasytheslayer.github.io/js_game_2048/)
 
 ## General info
 This project is a copy of the well-known game 2048, which can be played right on the page. The game has a scoring system, and you can restart the game if you fail to win.

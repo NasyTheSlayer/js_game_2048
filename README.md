@@ -10,7 +10,6 @@ Project was created with:
 * JavaScript
 * CSS, SCSS (flexboxes, grids, animations)
 * HTML
-* BEM methodology
 
 ## Setup
 1. Use 14 version of node.js:

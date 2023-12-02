@@ -3,7 +3,7 @@
 - [DEMO LINK](https://nasytheslayer.github.io/Museum-landing/)
 
 ## General info
-The Museum landing page is a training project featuring animations, transitions on product cards and buttons, and anchor targets for in-page navigation. Users can open and close a menu, utilize telephone and email links, and submit information via a dedicated form. The form includes additional validation. The page is responsive and adapts seamlessly to three different device types: desktop, tablet, and mobile. It ensures a user-friendly experience on all platforms.
+This project is a copy of the well-known game 2048, which can be played right on the page. The game has a scoring system, and you can restart the game if you fail to win.
 
 ## Technologies
 Project was created with:
